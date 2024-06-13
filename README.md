@@ -1,0 +1,1 @@
+In this thesis machine learning used to solve problems of mixed linear-integer programming to optimize the layout and sorting of goods in a warehouse
